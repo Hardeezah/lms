@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "esModuleInterop": true,       // Optional, helps with module interoperability
+      "strict": true,                // Optional, enables strict type-checking options
+      "target": "ESNext",            // Optional, sets the ECMAScript target version
+      "skipLibCheck": true           // Optional, skips type checking of declaration files
+    }
+  }
+  
